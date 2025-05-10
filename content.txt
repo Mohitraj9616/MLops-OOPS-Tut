@@ -3,3 +3,13 @@
     > code walkthrough
     > attrutes get called itself , methods are called manually
 3. Why Python is Called OOP ? 
+4. Advantages  of OOPS: 
+    > You can create your own datatype 
+    > code reusability 
+    > debugging 
+    > easy to colab 
+
+5. End to End project ( Chatbook )    
+    > encapsulation
+    > getter and setter 
+    > static method 
