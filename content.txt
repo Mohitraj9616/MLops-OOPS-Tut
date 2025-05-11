@@ -9,7 +9,11 @@
     > debugging 
     > easy to colab 
 
-5. End to End project ( Chatbook )    
+5. End to End project ( Chatbook )
+    > Function vs method
+    > magic method or dunder/special method    --> 
+    > You can create attributes outside of class --> sam.id = 'hshshs' , sam.salary = '1000000'
+    > 
     > encapsulation
     > getter and setter 
     > static method 

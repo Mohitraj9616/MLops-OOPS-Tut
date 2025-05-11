@@ -2,6 +2,7 @@
 class employee:
    # special methods/magic method/ dunder method - constructor 
     def __init__(self): 
+       print(id(self))
        print("Started executing attributes/data ")
        self.id = 123
        self.salary = 50000
@@ -18,6 +19,10 @@ class employee:
 
 # create an obj/instance of the class
 sam = employee()
+sam.name  = 'Mohit rajput'
+print(sam.name)
+
+print(id(sam))
 
 sam.travel("kerela")
 
